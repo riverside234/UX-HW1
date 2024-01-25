@@ -1,15 +1,24 @@
-table, th, td {
+table,
+th,
+td {
   border: 1px solid;
 }
 
 .large-text-wrap {
-  inline-size: 600px; 
+  inline-size: 600px;
 }
 
 .primary-button {
-
+  background-color: rgb(28, 180, 53);
+  color: white;
+  border: white;
+  border-radius: 6px;
+  padding: 8px;
 }
 
 .secondary-button {
-  
+  background-color: rgb(215, 234, 223);
+  border-radius: 6px;
+  padding: 8px;
+  border: rgb(126, 139, 146);
 }
